@@ -9,9 +9,9 @@ make webpack watch for changes
 ./node_modules/.bin/webpack -d --watch
 ```
 
-install webpack
+install webpack (-S is a flag for --save)
 ```
-npm i webpack
+npm i webpack -S
 ```
 
 install babel
